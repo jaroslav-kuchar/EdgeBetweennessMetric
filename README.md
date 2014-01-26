@@ -3,7 +3,7 @@ Author: Jiri Krizek
 
 Supervisor: Jaroslav Kuchar
 
-<a href="https://gephi.org/plugins/social-network-analysis/">Social Network Analysis</a> plugin for <a href="http://www.gephi.org">Gephi</a>. 
+Edge Betweenness plugin for <a href="http://www.gephi.org">Gephi</a>. 
 This plugin allows compute Edge Betweenness metric, which can be used in Social Network Analysis. 
 
 Edge betweenness of an edge as the number of shortest paths between pairs of nodes that run along it.
