@@ -1,5 +1,6 @@
 # Edge Betweenness Metric
 Author: Jiri Krizek
+
 Supervisor: Jaroslav Kuchar
 
 <a href="https://gephi.org/plugins/social-network-analysis/">Social Network Analysis</a> plugin for <a href="http://www.gephi.org">Gephi</a>. 
@@ -7,7 +8,7 @@ This plugin allows compute Edge Betweenness metric, which can be used in Social 
 
 Edge betweenness of an edge as the number of shortest paths between pairs of nodes that run along it.
 
-# Tutorial
+## Tutorial
 
 Computation of Edge Betweenness can be started using "Statistics" panel. This
 panel is usually on the right part of Gephi window. If you don't see this panel,
@@ -20,5 +21,5 @@ enable it using "Window/Statistics" from the main menu.
 
 Computed values will be available in **Data laboratory** (column named Edge Betweenness).
 
-# License
+## License
 The GPL version 3, http://www.gnu.org/licenses/gpl-3.0.txt
